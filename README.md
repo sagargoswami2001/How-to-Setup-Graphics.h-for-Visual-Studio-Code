@@ -153,7 +153,7 @@ then the last extension comes our “exe runner”, for this, you have to search
 restart visual studio code after all three extensions have been installed, now we have successfully setup visual studio code for graphics programming.
 
 **Step 10: Now go to src folder and click on Hut.cpp and open the file**
-```
+```cpp
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
